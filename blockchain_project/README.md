@@ -14,7 +14,7 @@ A fully functional blockchain implementation in C++ with P2P networking, transac
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blockchain-cpp.git
+   git clone https://github.com/arshamakhtar/blockchain-cpp.git
    cd blockchain-cpp
 ## Contributing
 
