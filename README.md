@@ -88,8 +88,8 @@ To run this project, you need to install the following dependencies:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blockchain-cpp.git
-   cd blockchain-cpp
+   git clone https://github.com/arshamakhtar/BLOCKCHAIN_PROJECT.git
+   cd BLOCKCHAIN_PROJECT
 
    
 ---
